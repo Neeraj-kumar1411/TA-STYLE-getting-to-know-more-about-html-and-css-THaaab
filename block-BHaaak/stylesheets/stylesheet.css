@@ -1,0 +1,23 @@
+img {
+  white-space: 300px;
+  height: 300px;
+}
+.green {
+  background-color: green;
+  text-decoration: none;
+  color: black;
+  padding: 5px;
+  display: inline-block;
+}
+.fas {
+  width: 20px;
+  color: forestgreen;
+  height: 20px;
+}
+
+.page1 {
+  background-color: wheat;
+}
+.page2 {
+  background: tomato;
+}
